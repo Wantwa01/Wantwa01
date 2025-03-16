@@ -12,7 +12,7 @@
 
 ##  About Me
 
--  Final Year Data Science Student @ Mzuzu University
+-  Data Scientist
 -  Machine Learning, Optimisation, Statistical Modelling & Backend Systems
 -  Languages: Python, Java, C, JavaScript, TypeScript, SQL
 -  Cloud Computing Fan (AWS/GCP)
@@ -48,7 +48,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/…)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com…)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com…)
+[![X](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://https://x.com/Superman_MW…)
 
 ---
 
