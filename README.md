@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Level 3 Data Scientist | Machine Learning Enthusiast | Backend Developer | Optimisation Specialist</b>
+  <b>Data Scientist | Machine Learning Enthusiast | Backend Developer | Optimisation Specialist</b>
 </p>
 
 ---
