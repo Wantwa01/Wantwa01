@@ -47,13 +47,13 @@
 ##  Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/…)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com…)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:msamaliwantwa771@gmail.com…)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=About.me&logoColor=white)](https://https://www.x.com/Superman_MW…)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat…" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Wantwa01&label=Profile%20views&color=0e75b6&style=flat…" alt="profile views" />
 </p>
 
 <p align="center">
