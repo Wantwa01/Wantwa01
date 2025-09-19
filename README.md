@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Wantwa! </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif…" width="100" height="100">
+  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif…](https://drive.google.com/file/d/1ooEvfegKvyMjrD7cPiXPlEebaH9DZp91/view?usp=drive_link)" width="100" height="100">
 </p>
 
 <p align="center">
