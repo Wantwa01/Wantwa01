@@ -1,4 +1,4 @@
-[<h1 align="center">Hey there, I'm Wantwa! 👋</h1>
+<h1 align="center">Hey there, I'm Wantwa! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" height="120" alt="Waving Hand">
@@ -40,11 +40,12 @@ I am a passionate **Data Scientist** and **Backend Developer** focused on bridgi
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### 🎨 Frontend Engineering
+### 🎨 Frontend Engineering & Design
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases & Core Languages
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -60,7 +61,11 @@ I am a passionate **Data Scientist** and **Backend Developer** focused on bridgi
 
 ---
 
-## 📈 GitHub Statistics
+## 🔥 Contribution Streak & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wantwa01&theme=tokyonight" alt="Wantwa's Contribution Streak" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wantwa01&show_icons=true&theme=tokyonight&count_private=true" alt="Wantwa's GitHub Stats" width="48%" />
@@ -78,4 +83,3 @@ I am a passionate **Data Scientist** and **Backend Developer** focused on bridgi
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/Superman_MW)
 
 ---
-](https://www.linkedin.com/in/wantwa01/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJgjvf5mkTpaGGp%2BljMOBcg%3D%3D)
