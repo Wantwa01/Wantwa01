@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Wantwa! 👋</h1>
+[<h1 align="center">Hey there, I'm Wantwa! 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" height="120" alt="Waving Hand">
@@ -78,3 +78,4 @@ I am a passionate **Data Scientist** and **Backend Developer** focused on bridgi
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/Superman_MW)
 
 ---
+](https://www.linkedin.com/in/wantwa01/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJgjvf5mkTpaGGp%2BljMOBcg%3D%3D)
