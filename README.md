@@ -1,85 +1,61 @@
-<h1 align="center">Hey there, I'm Wantwa! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" height="120" alt="Waving Hand">
-</p>
+# Wantwa
 
-<p align="center">
-  <b>Data Scientist | Machine Learning Enthusiast | Backend Developer | Optimization Specialist</b>
-</p>
+**Data Scientist · Machine Learning · Backend Development · Optimization**
 
-<p align="center">
-  <i>"Turning data into decisions. Let’s build something brilliant together!"</i>
-</p>
+*Turning data into decisions.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wantwa01&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
+</div>
 
----
+<br>
 
-## 🚀 About Me
+## About
 
-I am a passionate **Data Scientist** and **Backend Developer** focused on bridging the gap between robust data models and scalable backend systems. I specialize in optimization, statistical modeling, and building secure architectures.
+I'm a Data Scientist and Backend Developer focused on bridging robust data models with scalable backend systems. My work centers on optimization, statistical modeling, and secure, well-architected systems.
 
-- 🧠 **Current Focus:** Leveling up one algorithm at a time, perfecting optimization workflows.
-- ⚙️ **Data Philosophy:** Wrangling chaos into clean, predictive insights.
-- 🔐 **Security First:** Designing secure API layers with JWT authentication.
-- ☁️ **Cloud Fan:** Deploying architectures effortlessly on AWS and GCP.
+- Currently refining optimization workflows and algorithm design
+- Building secure API layers with JWT authentication
+- Deploying on AWS and GCP
 
----
+<br>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-### 📊 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Data Science & Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-grey?style=flat-square&logo=powerbi&logoColor=F2C811&labelColor=white" alt="Power BI" height="28" />
 
-### 🖥️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+**Backend Development**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,django" alt="Node.js, Flask, Django" height="40" />
 
-### 🎨 Frontend Engineering & Design
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Frontend Engineering**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS" height="40" />
 
-### 🗄️ Databases & Core Languages
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+**Databases & Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,java,c" alt="PostgreSQL, SQLite, Java, C" height="40" />
 
-### ☁️ DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git" alt="AWS, GCP, Docker, Git" height="40" />
 
----
+<br>
 
-## 🔥 Contribution Streak & Metrics
+## Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wantwa01&theme=tokyonight" alt="Wantwa's Contribution Streak" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wantwa01&theme=default&hide_border=true&background=FFFFFF00&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=8A8A8E&sideLabels=8A8A8E" alt="GitHub Streak" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wantwa01&show_icons=true&theme=tokyonight&count_private=true" alt="Wantwa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wantwa01&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+<br>
 
----
+## Connect
 
-## 🤝 Let’s Connect!
-
-📬 Feel free to reach out if you want to collaborate on data projects, backend development, or just talk algorithms!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wantwa01/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msamaliwantwa771@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/Superman_MW)
-
----
+**LinkedIn** — [linkedin.com/in/wantwa01](https://www.linkedin.com/in/wantwa01/) <br>
+**Email** — [mwamsamaliwantwa2@gmail.com](mailto:mwamsamaliwantwa2@gmail.com) <br>
+**X** — [@Superman_MW](https://www.x.com/Superman_MW)<br>
