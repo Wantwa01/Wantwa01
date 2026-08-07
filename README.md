@@ -24,13 +24,15 @@ I'm a Data Scientist and Backend Developer focused on bridging robust data model
 
 **Data Science & Machine Learning**
 <br>
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
+<img src="https://skillicons.dev/icons?i=python,r" alt="Python, R" height="40" />
 &nbsp;
 <img src="https://img.shields.io/badge/Power_BI-grey?style=flat-square&logo=powerbi&logoColor=F2C811&labelColor=white" alt="Power BI" height="28" />
+&nbsp;
+<img src="https://img.shields.io/badge/Stata-grey?style=flat-square&logoColor=white&labelColor=1A5276" alt="Stata" height="28" />
 
 **Backend Development**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,django" alt="Node.js, Flask, Django" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi" alt="Node.js, Flask, Django, FastAPI" height="40" />
 
 **Frontend Engineering**
 <br>
@@ -56,6 +58,16 @@ I'm a Data Scientist and Backend Developer focused on bridging robust data model
 
 ## Connect
 
-**LinkedIn** — [linkedin.com/in/wantwa01](https://www.linkedin.com/in/wantwa01/) <br>
-**Email** — [mwamsamaliwantwa2@gmail.com](mailto:mwamsamaliwantwa2@gmail.com) <br>
-**X** — [@Superman_MW](https://www.x.com/Superman_MW)<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wantwa01/">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mwamsamaliwantwa2@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.x.com/Superman_MW">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="32" />
+  </a>
+</p>
