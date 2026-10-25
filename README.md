@@ -36,7 +36,7 @@ I'm a Data Scientist and Backend Developer focused on bridging robust data model
 
 **Frontend Engineering**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS" height="40" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,astro" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Astro" height="40" />
 
 **Databases & Languages**
 <br>
